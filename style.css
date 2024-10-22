@@ -1,6 +1,6 @@
 /* 全体 */
 :root {
-  --theme-color: #7AAFF2;
+  --theme-color: #00A0A0;
 }
 
 * {
@@ -13,7 +13,6 @@ html, body {
 }
 
 body {
-  padding-bottom: 50px;
   color: #333;
 }
 
