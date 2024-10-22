@@ -1,7 +1,4 @@
-/* --------------------
-        全体的
--------------------- */
-
+/* 全体 */
 :root {
   --theme-color: #00a0a0;
 }
@@ -17,32 +14,23 @@ html, body {
 
 body {
   margin: 0;
-  padding: 30px;
+  padding: 30, 30, 80, 30;
   color: #333;
 }
 
-/* --------------------
-        見出し
--------------------- */
-
+/* 見出し */
 h1, h2, h3 {
   color: var(--theme-color);
   border-bottom: dashed 0.1em var(--theme-color);
 }
 
-/* --------------------
-        リンク
--------------------- */
-
+/* リンク */
 a {
   color: var(--theme-color);
   text-decoration: none;
 }
 
-/* --------------------
-        リスト
--------------------- */
-
+/* リスト要素 */
 ul {
   list-style: none;
 }
@@ -51,10 +39,7 @@ li:before {
   color: var(--theme-color);
 }
 
-/* --------------------
-          表
--------------------- */
-
+/* テーブル要素 */
 table {
   border-spacing: 0;
   border-collapse: collapse;
