@@ -1,6 +1,6 @@
 /* 全体 */
 :root {
-  --theme-color: #333;
+  --theme-color: #00A0A0;
 }
 
 * {
@@ -14,6 +14,10 @@ html, body {
 
 body {
   color: #333;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
 }
 
 /* 見出し */
@@ -24,7 +28,6 @@ h1, h2, h3 {
 
 /* リンク */
 a {
-  color: #333;
   text-decoration: none;
 }
 
