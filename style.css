@@ -9,12 +9,11 @@
 
 html, body {
   width: 100%;
-  height: 100%;
 }
 
 body {
   color: #333;
-  padding: 30px;
+  padding: 70px;
 }
 
 /* 見出し */
